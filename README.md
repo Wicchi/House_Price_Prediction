@@ -1,4 +1,4 @@
-#Competition from Kaggle.com
+# House price competition from Kaggle.com
 
 Free Datasets
 
